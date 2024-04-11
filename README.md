@@ -1,8 +1,8 @@
 ### Olá, eu sou o Sérgio 👋
 
 
-- 🔭 Atualmente trabalhando com desenvolvimento Front-end
-- 🌱 Estudando JavaScript e React
+- 🔭 Conhecimento em desenvolvimento Front-end (HTML - CSS - JAVASCRIPT - BOOTSTRAP - REACT)
+- 🌱 Estudando JavaScript, React e BootStrap
 - 🎮 Apaixonado por Tecnologia, video-games, filmes/séries e quadrinhos
 - 📱 Contate-me através do Linkedin - https://www.linkedin.com/in/sergiobadaro/
 
